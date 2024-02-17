@@ -1,6 +1,6 @@
 ## Here is CarbonicX!
 
-A student. A personal developer.
+A student. A development enthusiast.
 
 [![bilibili](https://img.shields.io/badge/bilibili-CarbonicX-FB7299?style=for-the-badge)](https://space.bilibili.com/21635425)
 [![zhihu](https://img.shields.io/badge/zhihu-CarbonicX-0084FF?style=for-the-badge)](https://www.zhihu.com/people/deeeed)
